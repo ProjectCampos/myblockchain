@@ -30,6 +30,6 @@ A aplicação implementa uma blockchain simples em Python para registrar diploma
 A aplicação tem como objetivo ilustrar o uso prático da tecnologia blockchain no contexto de registros acadêmicos, permitindo que diplomas possam ser validados de forma segura e imutável ao longo do tempo.
 
 ## Código da aplicação
-<img width="607" alt="image" src="https://github.com/ProjectCampos/myblockchain/1">
-<img width="673" alt="image" src="https://github.com/user-attachments/assets/8635749f-4d2c-44ab-bf11-d2a58c073669">
-<img width="404" alt="image" src="https://github.com/user-attachments/assets/c2777475-4fd2-4da5-b381-daf19181becf">
+<img width="607" alt="image" src="">
+<img width="673" alt="image" src="">
+<img width="404" alt="image" src="">
