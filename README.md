@@ -19,16 +19,16 @@ Acesso: https:https://www.cc.faccamp.br/ojs-2.4.8-2/index.php/RTA/article/view/1
 O fichamento elaborado sobre o artigo "O Blockchain e suas aplicações para além das criptomoedas": O presente trabalho buscou explorar o tema Blockchain além área usualmente abordada, as criptomoedas. Para tanto o método utilizado foi a Revisão Sistemática de Literatura (RSL), que utilizou a base Google Scholar como fonte dos artigos que compuseram o corpus do trabalho. Inicialmente foram localizados mais de 23 mil artigos sobre o tema Blockchain, mas que, com a aplicação de filtros baseados em critérios já utilizados em outros artigos, chegou a quinze artigos que apresentaram aplicações de crowdsourcing não relacionadas a criptomoedas. A utilização da RSL se deve ao fato do tema ser inovador e ainda apresentar lacunas relacionadas às categorias de blockchain e termos utilizados em suas possíveis aplicações. O trabalho chegou a treze categorias de utilização do blockchain: notório público, indústria da música, armazenamento descentralizado, IOT, antifalsificação, aplicações para o bitcoin, contratos inteligentes, organização autônoma descentralizada, protótipos de aplicativos, Supply Chain Management, cidades inteligentes, direitos de propriedades e hyperledger
 
 ## Aplicação
-A aplicação implementa uma blockchain simples em Python para registrar diplomas acadêmicos. O projeto visa demonstrar como a tecnologia blockchain pode ser utilizada para garantir a segurança, transparência e imutabilidade dos registros de diplomas.
-
+ Implementa um sistema básico que simula o armazenamento descentralizado de informações sobre diferentes categorias de uso do blockchain, conforme mencionado no artigo.
 ### Funcionalidades:
-- Adicionar Diplomas: O sistema permite adicionar informações de diplomas, como nome do aluno, instituição, curso e data de graduação, diretamente no código.
-- Blockchain: Cada diploma inserido é armazenado em um bloco da blockchain. Cada bloco possui um índice, um hash próprio, o hash do bloco anterior, o timestamp (data e hora), e os dados do diploma.
-- Validação da Blockchain: A aplicação também verifica a integridade da blockchain, garantindo que os blocos não foram modificados, mantendo a confiança no sistema.
+- Armazenamento Descentralizado: Simula o armazenamento de informações em uma estrutura de blockchain.
+- Imutabilidade: Assegura que os dados não possam ser alterados sem modificar todos os blocos subsequentes, graças ao uso de hashes.
+- Organização de Dados: Facilita a organização e visualização das diversas categorias de aplicação do blockchain.
+- Educação e Demonstração: Serve como uma ferramenta educacional para entender os conceitos básicos de blockchain.
+Essas funcionalidades fornecem uma base para explorar e expandir a aplicação, incluindo possíveis melhorias, como validação de blocos, interação com usuários ou integração com outras tecnologias.
 
 ### Objetivo:
-A aplicação tem como objetivo ilustrar o uso prático da tecnologia blockchain no contexto de registros acadêmicos, permitindo que diplomas possam ser validados de forma segura e imutável ao longo do tempo.
-
+A aplicação demonstra como uma estrutura de blockchain pode ser usada para armazenar e organizar informações sobre várias aplicações do blockchain além das criptomoedas, servindo como um ponto de partida para estudos mais profundos ou desenvolvimento de funcionalidades mais avançadas.
 ## Código da aplicação
 <img width="607" alt="image" src="">
 <img width="673" alt="image" src="">
