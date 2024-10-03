@@ -30,5 +30,5 @@ Essas funcionalidades fornecem uma base para explorar e expandir a aplicação, 
 ### Objetivo:
 A aplicação demonstra como uma estrutura de blockchain pode ser usada para armazenar e organizar informações sobre várias aplicações do blockchain além das criptomoedas, servindo como um ponto de partida para estudos mais profundos ou desenvolvimento de funcionalidades mais avançadas.
 ## Código da aplicação
-<img width="607" alt="image" src="img/img.png">
+<img width="607" alt="image" src="[img/img.png](https://github.com/ProjectCampos/myblockchain/blob/main/img/img.PNG)">
 
